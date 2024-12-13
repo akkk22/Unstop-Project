@@ -16,7 +16,7 @@ Solution
 
 How to run application
 
-    Download the project zip from the github [https://github.com/KunalPandharkar/Unstop-Challenge]
+    Download the project zip from the github [https://github.com/akkk22]
     Install all project dependencies by running command
 
   composer install
